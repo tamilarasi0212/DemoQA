@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80503" started-at="2020-04-21T14:58:18 CDT" finished-at="2020-04-21T14:59:39 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80503" started-at="2020-04-21T14:58:18 CDT" finished-at="2020-04-21T14:59:39 CDT">
+      <class name="PageObject_Widgets.BrokenLinks">
+        <test-method status="PASS" signature="toolTip()[pri:0, instance:PageObject_Widgets.BrokenLinks@41d477ed]" name="toolTip" duration-ms="79852" started-at="2020-04-21T14:58:18 CDT" finished-at="2020-04-21T14:59:38 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toolTip -->
+      </class> <!-- PageObject_Widgets.BrokenLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
